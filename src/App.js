@@ -1,12 +1,14 @@
-import * as React from "react";
 import './App.css';
-import './home1_3';
+import Task from "./Task";
 
 const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <home1/>
+          <p>
+              NTST <code>src/App.js</code> GJHJKLKJLJLJkjkljklklk.
+          </p>
+        <Task/>
       </header>
     </div>
   );

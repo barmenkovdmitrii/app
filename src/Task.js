@@ -11,7 +11,7 @@ const Task = () => {
                     Edit <code>src/App.js</code> and save to reload.
 
                 </p>
-            <p>{apples+2}</p>
+            <p>{'Количество ' + (apples + 2)}</p>
         </div>
     );
 

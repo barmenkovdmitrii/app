@@ -12,6 +12,7 @@ const Task = () => {
 
                 </p>
             <p>{'Количество ' + (apples + 2)}</p>
+            <p><code>4+2</code></p>
         </div>
     );
 
